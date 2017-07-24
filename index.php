@@ -1,3 +1,5 @@
 <?php 
-	echo 'ok';
+	echo 'ok'."<br/>";
+	echo 'ok'."<br/>";
+	
 ?>
